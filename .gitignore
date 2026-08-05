@@ -1,0 +1,27 @@
+# Build directories
+Debug/
+Release/
+bin/
+obj/
+build/
+
+# Visual Studio files
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+.vs/
+
+# Compiled files
+*.o
+*.obj
+*.exe
+*.dll
+*.lib
+*.a
+
+# IDE settings
+.vscode/
+*.swp
+*.swo
+*~
