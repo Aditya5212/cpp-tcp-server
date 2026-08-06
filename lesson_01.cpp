@@ -3,7 +3,7 @@
 #include <iomanip>
 using namespace std;
 
-int main() {
+int main_01() {
 
 	//	Payload Length : 4 bytes
 	//	Command Type : 1 byte
