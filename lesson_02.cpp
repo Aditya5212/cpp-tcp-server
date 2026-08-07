@@ -13,7 +13,7 @@ void printBuffer(const vector<uint8_t>& buffer) {
 	cout << dec << "\n";
 }
 
-int main() {
+int main_02() {
 	
 	uint8_t command{ 0x01 };
 
@@ -39,9 +39,6 @@ int main() {
 	std::cout << "Payload length should be: "
 		<< buffer.size()
 		<< "\n";
-
-
-
 	return 0;
 }	
 
